@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maxim/Cpp/geek-brains/NetworkCpp/cpp-network-tasks/src/l1/udp_server/main.cpp
+algorithm
+-
+cstdlib
+-
+iomanip
+-
+iostream
+-
+string
+-
+socket_wrapper/socket_headers.h
+-
+socket_wrapper/socket_wrapper.h
+-
+socket_wrapper/socket_class.h
+-
+

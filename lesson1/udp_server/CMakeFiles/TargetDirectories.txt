@@ -1,0 +1,3 @@
+/home/maxim/Cpp/geek-brains/NetworkCpp/cpp-network-tasks/src/l1/udp_server/CMakeFiles/rebuild_cache.dir
+/home/maxim/Cpp/geek-brains/NetworkCpp/cpp-network-tasks/src/l1/udp_server/CMakeFiles/edit_cache.dir
+/home/maxim/Cpp/geek-brains/NetworkCpp/cpp-network-tasks/src/l1/udp_server/CMakeFiles/udp-server.dir

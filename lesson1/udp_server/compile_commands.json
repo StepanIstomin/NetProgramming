@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/maxim/Cpp/geek-brains/NetworkCpp/cpp-network-tasks/src/l1/udp_server",
+  "command": "/usr/bin/c++    -g   -std=c++17 -o CMakeFiles/udp-server.dir/main.cpp.o -c /home/maxim/Cpp/geek-brains/NetworkCpp/cpp-network-tasks/src/l1/udp_server/main.cpp",
+  "file": "/home/maxim/Cpp/geek-brains/NetworkCpp/cpp-network-tasks/src/l1/udp_server/main.cpp"
+}
+]
